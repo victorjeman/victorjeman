@@ -5,6 +5,8 @@
 I love web development! 
 I know my way around it, some glue here, some duct tape there, and you have a web page. I also love sharing my knowledge; I'm not yet particularly good at it, but it brings me joy, and I want to pursue this. 
 
+Checkout  <a href="https://victorjeman.com" target="_blank" rel="noreferrer">victorjeman.com</a>
+
 <a href="https://www.linkedin.com/in/victorjeman" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/victorjeman/victorjeman/dev/images/linkedIn.svg" width=35 height=35 /> 
 </a>
